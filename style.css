@@ -1,0 +1,17 @@
+body
+{
+    background-color: hwb(312 80% 15%);
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    margin: 0;
+}
+form
+{
+    background-color: hsl(313, 43%, 85%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    alignment: left;
+}
+
+    
